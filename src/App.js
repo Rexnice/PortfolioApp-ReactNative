@@ -31,6 +31,10 @@ const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
+        path: "/",
+        element: <Profile />
+      },
+      {
         path: "/Profile",
         element: <Profile />
       },
@@ -39,7 +43,7 @@ const router = createBrowserRouter([
         element: <Whatido />
       },
       {
-        path: "/Project",
+        path: "/Profile",
         element: <Project />
       },
       {

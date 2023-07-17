@@ -14,7 +14,7 @@ const Banner =() =>{
                     loading="priority"
                     />
                 </div>
-                <div className='absolute w-fit left-0 right-20 top-10 mx-10 border-10 flex gap-10 bg-white grid grid-cols-2'>
+                <div className='absolute w-fit left-0 right-20 top-10 mx-10 border-10 gap-20 bg-white grid grid-cols-2'>
                     <div className="grid grid-col-1 mx-20 my-20 ">
                         <h1 className="text-4xl font-semibold text-red ">PROFILE</h1>
                         <p className="justify-center text-justify">I am an entry level software Engineer
@@ -25,7 +25,7 @@ const Banner =() =>{
                         </p>
                         <button class="bg-blue-500 hover:bg-purple-950 text-white font-bold py-2 px-2 w-15 rounded-full">Connect</button>
                     </div>
-                    <div className="w-[50vw] h-full flex grid grid-cols-1">
+                    <div className="w-[50vw] h-full grid grid-cols-1">
                         <img 
                         className="w-[20vw] object-cover my-10"
                         src={ernest}
