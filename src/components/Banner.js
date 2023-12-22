@@ -20,7 +20,7 @@ const Banner =() =>{
                         <p className="justify-center text-justify">I am an entry level software Engineer
                             and a Data Analyts. I hold a Bachelors degree in Mathematics & Statistics from
                             the University of Calabar, Nigeria. I've developed data-driven Web and Mobile Applications to meet my clients
-                            needs and satisfaction. Our services are top notch and the feedbacks after every job has been mind blowing. Pitch that
+                            needs and satisfaction. I am also a research assitant, performing scientific research in order to contribute to science. Our services are top notch and the feedbacks after every job has been mind blowing. Pitch that
                             great idea you have today and allow me transform your thoughts to a productive code. 
                         </p>
                         <button class="bg-blue-500 hover:bg-purple-950 text-white font-bold py-2 px-2 w-15 rounded-full">Connect</button>
